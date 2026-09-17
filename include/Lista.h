@@ -11,8 +11,8 @@ class Lista{
 
    Lista(); 
 
-   void agregarElemento(); 
-   Node* buscarElemento(); 
+   void agregarElemento(int value); 
+   Node* buscarElemento(int value); 
    float promedioDeLaLista(); 
    void mostrarElementoLista(); 
    ~Lista();
