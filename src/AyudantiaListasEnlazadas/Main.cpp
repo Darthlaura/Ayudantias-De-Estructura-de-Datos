@@ -1,3 +1,10 @@
+// COMPILAR:
+// g++ Main.cpp include/src_cpp/Lista.cpp include/src_cpp/Node.cpp -Iinclude/src_cpp -o programa
+
+// EJECUTAR:
+// ./programa
+
+
 #include <iostream>
 #include "Lista.h"
 
